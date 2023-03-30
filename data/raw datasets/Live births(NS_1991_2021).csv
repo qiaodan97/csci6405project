@@ -1,0 +1,35 @@
+﻿"Live births, by place of residence of mother 1 2 3 4 5 6 7 8"
+"Frequency: Annual"
+"Table: 13-10-0414-01 (formerly CANSIM 102-4501)"
+"Release date: 2022-09-28"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography, place of occurrence 9","Nova Scotia, place of occurrence",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Geography, place of residence of mother 9","1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021"
+,"Number",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Total, Canada and place of residence of mother outside Canada 10 11","12,086","11,983","11,683","11,225","10,840","10,652","10,040","9,685","9,631","9,151","8,929","8,684","8,678","8,840","8,674","8,630","9,021","9,309","9,110","8,944","8,948","8,844","8,526","8,745","8,296","8,429","8,359","8,037","8,172","7,683","7,029"
+"Canada, place of residence of mother 10","12,076","11,980","11,674","11,214","10,836","10,649","10,034","9,681","9,626","9,146","8,928","8,676","8,675","8,832","8,667","8,623","9,013","9,300","9,094","8,937","8,944","8,836","8,510","8,727","8,282","8,411","8,336","8,018","8,148","7,673","7,021"
+"Place of residence of mother outside Canada 11","10","3","9","11","4","3","6","4","5","5","1","8","3","8","7","7","8","9","16","7","4","8","16","18","14","18","23","19","24","10","8"
+
+
+
+
+Footnotes:
+1,"Source: Statistics Canada, Canadian Vital Statistics - Birth database (CVSB)."
+2,"Live birth is the complete expulsion or extraction from its mother of a product of conception, irrespective of the duration of the pregnancy, which, after such separation, breathes or shows any other evidence of life, such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles, whether or not the umbilical cord has been cut or the placenta is attached."
+3,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period, (...) for figures not applicable and (x) for figures suppressed to meet the confidentiality requirements of the Statistics Act."
+4,"Starting with the 2012 data year, information on Canadian infants who are born in American states is no longer collected."
+5,"During the production of each year's birth/death/stillbirth statistics, data from previous years may be revised to reflect any updates or changes that have been received from the provincial and territorial vital statistics registrars. Births data for 1991-2020 were revised on September 28, 2022."
+6,"2017 to 2021 data for Yukon are not available."
+7,"Due to improvements in methodology and timeliness, the duration of data collection has been shortened compared to previous years. As a result, there may have been fewer births and stillbirths captured by the time of the release. The 2021 data are considered preliminary."
+8,"As a result of delays with birth registrations, fewer births have been captured, to date, for Manitoba in 2021. There were also fewer births captured for Nova Scotia in 2021 due to coverage issues."
+9,"The geographic distribution of live births in this table is based on the mother's usual place of residence and on the place of occurrence."
+10,"Unknown province or territory of residence of mother, refers to live births to mothers who are residents of Canada, with unknown province or territory of residence."
+11,"Place of residence of mother outside Canada includes live births to mothers who are non-residents of Canada and births with unknown country of residence of mother. Data by place of residence outside Canada have been revised for 2007."
+
+
+
+"How to cite: Statistics Canada. Table 13-10-0414-01  Live births, by place of residence of mother"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310041401

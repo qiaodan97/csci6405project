@@ -1,0 +1,57 @@
+﻿"Estimates of population (2016 Census and administrative data), by age group and sex for July 1st, Canada, provinces, territories, health regions (2018 boundaries) and peer groups c 1 2 3 4"
+"Frequency: Annual"
+"Table: 17-10-0134-01"
+"Release date: 2022-03-22"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Age group","Total, all ages",,,,,,,,,,,,,,,,,,,,
+"Sex","Both sexes",,,,,,,,,,,,,,,,,,,,
+"Geography 5 6 7","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021"
+,"Number",,,,,,,,,,,,,,,,,,,,
+"Canada","31,020,902","31,360,079","31,644,028","31,940,655","32,243,753","32,571,174","32,889,025","33,247,118","33,628,895","34,004,889","34,339,328","34,714,222","35,082,954","35,437,435","35,702,908","36,109,487","36,545,236","37,065,084","37,601,230","38,037,204","38,246,108"
+"Newfoundland and Labrador","522,046","519,481","518,459","517,423","514,332","510,592","509,055","511,581","516,751","522,009","524,999","526,345","527,114","528,159","528,117","529,426","528,249","525,560","523,427","521,364","520,553"
+"Prince Edward Island","136,665","136,880","137,227","137,680","138,064","137,867","137,711","138,749","139,891","141,654","143,963","144,530","144,094","144,283","144,546","146,969","150,402","153,396","157,419","161,329","164,318"
+"Nova Scotia","932,494","935,179","937,717","939,664","937,926","937,882","935,115","935,897","938,208","942,107","944,274","943,635","940,434","938,545","936,525","942,790","950,108","958,406","970,243","981,889","992,055"
+"New Brunswick","749,820","749,372","749,441","749,419","748,057","745,621","745,433","746,877","749,956","753,035","755,705","758,378","758,544","758,976","758,842","763,350","766,621","770,301","777,128","783,204","789,225"
+"Quebec","7,396,456","7,441,656","7,485,753","7,535,590","7,581,476","7,631,966","7,692,916","7,761,725","7,843,383","7,929,222","8,005,090","8,061,101","8,110,880","8,150,183","8,175,272","8,225,950","8,302,063","8,401,738","8,503,483","8,578,300","8,604,495"
+"Ontario by Local Health Integration Network 8","11,897,534","12,094,174","12,245,039","12,391,421","12,528,663","12,661,878","12,764,806","12,883,583","12,998,345","13,135,778","13,261,381","13,390,632","13,510,781","13,617,553","13,707,118","13,875,394","14,070,141","14,308,697","14,544,701","14,745,712","14,826,276"
+"Ontario by Health Unit 8","11,897,534","12,094,174","12,245,039","12,391,421","12,528,663","12,661,878","12,764,806","12,883,583","12,998,345","13,135,778","13,261,381","13,390,632","13,510,781","13,617,553","13,707,118","13,875,394","14,070,141","14,308,697","14,544,701","14,745,712","14,826,276"
+"Manitoba","1,151,454","1,156,680","1,163,596","1,173,238","1,178,264","1,183,562","1,189,451","1,197,775","1,208,556","1,220,780","1,233,649","1,249,975","1,264,620","1,279,014","1,292,227","1,314,139","1,334,790","1,352,825","1,369,954","1,380,648","1,383,765"
+"Saskatchewan","1,000,239","996,807","996,386","997,283","993,500","992,314","1,002,086","1,017,404","1,034,819","1,051,443","1,066,026","1,083,755","1,099,736","1,112,979","1,120,967","1,135,987","1,150,331","1,161,767","1,172,479","1,179,300","1,179,844"
+"Alberta","3,058,108","3,128,429","3,183,065","3,238,668","3,321,768","3,421,434","3,514,147","3,595,856","3,678,996","3,732,082","3,789,030","3,874,548","3,981,011","4,083,648","4,144,491","4,196,061","4,241,100","4,298,275","4,362,576","4,420,029","4,442,879"
+"British Columbia","4,076,950","4,100,564","4,124,482","4,155,651","4,196,062","4,241,794","4,290,984","4,349,336","4,410,506","4,465,546","4,502,104","4,566,769","4,630,077","4,707,103","4,776,388","4,859,250","4,929,384","5,010,476","5,094,796","5,158,728","5,214,805"
+"Yukon","30,158","30,336","30,941","31,455","31,902","32,272","32,554","33,083","33,731","34,596","35,411","36,234","36,521","37,137","37,690","38,547","39,610","40,519","41,362","42,174","42,986"
+"Northwest Territories","40,845","41,699","42,600","43,306","43,400","43,179","43,372","43,360","43,156","43,285","43,504","43,648","43,805","43,884","44,237","44,649","44,891","44,981","45,070","45,372","45,504"
+"Nunavut","28,133","28,822","29,322","29,857","30,339","30,813","31,395","31,892","32,597","33,352","34,192","34,672","35,337","35,971","36,488","36,975","37,546","38,143","38,592","39,155","39,403"
+"Peer group A","958,502","972,068","985,541","998,244","1,015,226","1,036,866","1,059,782","1,074,610","1,087,087","1,095,507","1,106,586","1,124,907","1,145,581","1,161,820","1,166,590","1,162,735","1,161,004","1,166,330","1,170,258","1,170,507","1,168,047"
+"Peer group B","10,216,238","10,369,980","10,505,178","10,643,535","10,789,256","10,944,804","11,094,027","11,258,718","11,434,181","11,594,943","11,747,817","11,918,816","12,100,191","12,271,551","12,407,278","12,601,140","12,791,783","13,003,715","13,226,604","13,429,534","13,541,567"
+"Peer group C","6,182,747","6,192,597","6,212,824","6,238,625","6,258,765","6,272,683","6,288,284","6,315,080","6,337,345","6,367,391","6,391,490","6,409,881","6,423,718","6,443,821","6,466,467","6,519,762","6,574,822","6,634,494","6,692,894","6,749,337","6,804,410"
+"Peer group D","4,358,774","4,385,193","4,419,158","4,457,512","4,493,345","4,523,192","4,563,698","4,605,352","4,640,794","4,683,272","4,717,055","4,754,566","4,789,998","4,825,610","4,858,142","4,908,281","4,962,041","5,020,862","5,077,357","5,136,271","5,198,348"
+"Peer group E","769,047","760,000","754,116","749,184","742,667","734,335","727,530","723,196","721,230","720,284","718,312","716,410","712,856","709,108","704,968","702,341","698,563","695,237","694,184","691,672","690,830"
+"Peer group F","150,036","151,882","153,819","156,177","157,743","159,684","161,526","164,039","166,713","169,758","172,072","173,574","175,446","177,215","178,551","179,821","181,467","182,735","184,156","185,291","186,120"
+"Peer group G","5,015,930","5,054,001","5,052,811","5,053,480","5,061,860","5,094,233","5,100,894","5,122,923","5,171,196","5,213,285","5,255,512","5,311,331","5,362,533","5,407,754","5,424,130","5,461,109","5,541,064","5,650,233","5,741,632","5,783,201","5,713,278"
+"Peer group H","3,369,628","3,474,358","3,560,581","3,643,898","3,724,891","3,805,377","3,893,284","3,983,200","4,070,349","4,160,449","4,230,484","4,304,737","4,372,631","4,440,556","4,496,782","4,574,298","4,634,492","4,711,478","4,814,145","4,891,391","4,943,508"
+
+
+"Table Corrections:"
+Date,Note
+"2022-05-16","On May 16, 2022, data for the age group 30 to 34 years were corrected for all sexes, geographies and reference periods. Corrected data is included with all further releases."
+
+
+
+Footnotes:
+1,"Source: Statistics Canada, Centre for Demography. The table 17-10-0134-01 is an update of table 17-10-0086-01 ."
+2,"Postcensal population estimates are based on the latest census adjusted for census net undercoverage and also based on administrative sources on births, deaths and migration. Intercensal population estimates are based on postcensal estimates and data adjusted for net undercoverage of the censuses preceding and following the considered year. Population estimates are final intercensal from 2001 to 2015, final postcensal from 2016 to 2019, updated postcensal for 2020 and preliminary postcensal for 2021. Population estimates for health regions are derived from the subprovincial population estimates which are produced by the Centre for Demography using the components method."
+3,"The number of people living in a geographic area, by age and sex."
+4,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period and (...) for figures not applicable."
+5,"Health region population estimates are produced by the Centre for Demography except for the Quebec estimates, which have been prepared by l'Institut de la statistique du Québec for the whole period."
+6,"Health regions are administrative areas defined by provincial ministries of health according to provincial legislation. The health regions presented in this table are based on boundaries and names in effect as of 2018. For complete Canadian coverage, each northern territory represents a health region."
+7,"Peer groups are aggregations of health regions that share similar socio-economic and demographic characteristics, based on data from the 2016 Census of Population. These are useful in the analysis of health regions, where important differences may be detected by comparing health regions within a peer group. The eight peer groups are identified by the letters A through H, which are appended to the health region 4-digit code. Caution should be taken when comparing data for the Peer Groups over time due to changes in the Peer Groups. In an analysis involving the peer groups, only one level of geography in Ontario should be used. For more information on the peer groups classification, consult Statistics Canada's publication "Health Regions: Boundaries and Correspondence with Census Geography" (catalogue number 82-402-X)."
+8,"In Ontario, Public Health Units (PHU) administer health promotion and disease prevention programs. Local Health Integration Networks (LHIN) are responsible for planning, funding and administering health care programs and services across the province."
+
+
+
+"How to cite: Statistics Canada. Table 17-10-0134-01  Estimates of population (2016 Census and administrative data), by age group and sex for July 1st, Canada, provinces, territories, health regions (2018 boundaries) and peer groups"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710013401

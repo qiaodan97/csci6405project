@@ -1,0 +1,52 @@
+﻿"Number of students in elementary and secondary schools, by school type and program type 1 2 3 4"
+"Frequency: Annual"
+"Table: 37-10-0109-01"
+"Release date: 2022-10-13"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Geography","Manitoba 5 6",,,,,,,,,,,,,,,,,,,,,,,
+"School type","Program type","1997 / 1998","1998 / 1999","1999 / 2000","2000 / 2001","2001 / 2002","2002 / 2003","2003 / 2004","2004 / 2005","2005 / 2006","2006 / 2007","2007 / 2008","2008 / 2009","2009 / 2010","2010 / 2011","2011 / 2012","2012 / 2013","2013 / 2014","2014 / 2015","2015 / 2016","2016 / 2017","2017 / 2018","2018 / 2019","2019 / 2020","2020 / 2021"
+"Total, school type",,"Number",,,,,,,,,,,,,,,,,,,,,,,
+,"Total, program type","192,312","192,630","197,067","189,912","188,907","186,891","186,285","184,353","182,373","193,761","193,332","192,201","192,381","192,711","194,148","195,171","195,432","196,341","198,132","200,226","202,545","204,249","205,908","202,089"
+,"Regular programs for youth 7","192,309","192,630","197,067","189,912","188,907","186,891","186,288","184,353","182,370","193,764","193,335","192,201","192,381","192,711","194,148","195,171","195,429","196,341","198,132","200,223","202,545","204,249","205,908","202,089"
+,"General programs for adults 8","0","0","0","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 9","0","0","0","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+"Public schools 10","Total, program type","192,309","192,630","197,067","189,912","188,907","186,894","186,288","184,353","182,370","180,042","179,319","177,960","177,498","177,678","178,917","179,289","179,106","179,733","181,023","183,015","184,710","186,522","187,893","179,874"
+,"Regular programs for youth 7","192,312","192,630","197,067","189,912","188,907","186,894","186,288","184,353","182,373","180,045","179,322","177,963","177,498","177,678","178,920","179,292","179,106","179,736","181,020","183,015","184,707","186,522","187,893","179,877"
+,"General programs for adults 8","0","0","0","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 9","0","0","0","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+"Private/independent schools 11","Total, program type","..","..","..","..","..","..","..","..","..","12,546","12,780","12,951","13,206","13,398","13,416","13,491","13,515","13,641","13,833","13,818","14,196","14,022","14,325","14,184"
+,"Regular programs for youth 7","..","..","..","..","..","..","..","..","..","12,543","12,780","12,951","13,203","13,398","13,416","13,491","13,512","13,641","13,833","13,815","14,196","14,019","14,325","14,184"
+,"General programs for adults 8","..","..","..","..","..","..","..","..","..","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 9","..","..","..","..","..","..","..","..","..","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+"Home-schooling 12","Total, program type","..","..","..","..","..","..","..","..","..","1,176","1,236","1,290","1,677","1,635","1,815","2,388","2,808","2,964","3,276","3,390","3,639","3,708","3,690","8,025"
+,"Regular programs for youth 7","..","..","..","..","..","..","..","..","..","1,176","1,236","1,290","1,677","1,635","1,812","2,385","2,811","2,964","3,276","3,393","3,639","3,708","3,690","8,028"
+,"General programs for adults 8","..","..","..","..","..","..","..","..","..","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 9","..","..","..","..","..","..","..","..","..","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+
+
+Footnotes:
+1,"All counts are randomly rounded to a multiple of 3 using the following procedure: counts that are already a multiple of 3 are not adjusted; counts 1 greater than a multiple of 3 are adjusted to the next lowest multiple of 3 with a probability of two-thirds and to the next highest multiple of 3 with a probability of one-third. The probabilities are reversed for counts that are 1 less than a multiple of 3."
+2,"Totals may not add up to the sum of all categories due to rounding."
+3,"The data are subject to revision."
+4,"Counts represent the number of students enrolled in programs at the beginning of the school year (in September or as close as possible thereafter), as provided by the provinces and territories."
+5,"Manitoba counts its students in Catholic schools under "private/independent schools"."
+6,"In Manitoba, graduates from "General programs for adults" are reported in the enrolments for "Regular programs for youth"."
+10,"Public elementary and secondary schools are publicly funded schools that are operated by school boards or the province/territory."
+11,"Private/independent elementary and secondary schools are operated, managed and administered by private individuals and/or groups. The extent to which an institution receives its funding from public or private sources does not determine its classification as a public or private/independent school."
+12,""Home-schooling" is an alternative method of learning that takes place outside the public or private school environment; parents have the primary responsibility of managing, delivering and supervising their children's courses and programs of learning."
+7,""Regular programs for youth" are general training programs geared toward and offered primarily to similarly aged young people. Although the majority of enrolments in this category will likely be for school-aged children and youth, some adults may be enrolled."
+8,""General programs for adults" are general programs geared toward and offered primarily to adults within the elementary-secondary system. Some youths may be enrolled in order to follow programs of study labelled as "adult education"."
+9,""Vocational programs for youth and adults" are professional and technical training programs designed for students to acquire the practical skills, know-how and understanding necessary for employment in a particular occupation or trade or class of occupations or trades, offered at the secondary level."
+
+
+
+"How to cite: Statistics Canada. Table 37-10-0109-01  Number of students in elementary and secondary schools, by school type and program type"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710010901

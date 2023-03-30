@@ -1,0 +1,50 @@
+﻿"Number of students in elementary and secondary schools, by school type and program type 1 2 3 4"
+"Frequency: Annual"
+"Table: 37-10-0109-01"
+"Release date: 2022-10-13"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Geography","New Brunswick",,,,,,,,,,,,,,,,,,,,,,,
+"School type","Program type","1997 / 1998","1998 / 1999","1999 / 2000","2000 / 2001","2001 / 2002","2002 / 2003","2003 / 2004","2004 / 2005","2005 / 2006","2006 / 2007","2007 / 2008","2008 / 2009","2009 / 2010","2010 / 2011","2011 / 2012","2012 / 2013","2013 / 2014","2014 / 2015","2015 / 2016","2016 / 2017","2017 / 2018","2018 / 2019","2019 / 2020","2020 / 2021"
+"Total, school type",,"Number",,,,,,,,,,,,,,,,,,,,,,,
+,"Total, program type","131,586","129,132","127,002","124,941","122,793","120,600","118,869","117,147","114,819","112,524","111,630","109,722","107,718","105,723","104,007","102,459","101,364","100,362","99,726","99,738","99,774","99,984","101,175","101,427"
+,"Regular programs for youth 5","131,586","129,132","127,002","124,941","122,793","120,600","118,869","117,144","114,819","112,524","111,633","109,719","107,718","105,726","104,007","102,459","101,364","100,362","99,729","99,738","99,774","99,987","101,178","101,427"
+,"General programs for adults 6","0","0","0","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 7","0","0","0","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+"Public schools 8","Total, program type","131,586","129,129","127,002","124,944","122,790","120,600","118,869","117,147","114,819","112,011","110,289","108,408","106,392","104,421","102,579","101,079","99,921","98,907","97,911","97,842","97,755","97,893","98,967","97,263"
+,"Regular programs for youth 5","131,586","129,132","127,002","124,941","122,790","120,600","118,869","117,147","114,819","112,014","110,289","108,405","106,395","104,421","102,579","101,079","99,921","98,904","97,911","97,842","97,755","97,896","98,967","97,263"
+,"General programs for adults 6","0","0","0","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 7","0","0","0","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+"Private/independent schools 9","Total, program type","..","..","..","..","..","..","..","..","..","0","816","819","795","753","768","750","765","762","1,110","1,134","1,218","1,257","1,272","1,530"
+,"Regular programs for youth 5","..","..","..","..","..","..","..","..","..","0","816","819","792","753","765","750","762","765","1,110","1,134","1,218","1,257","1,272","1,530"
+,"General programs for adults 6","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 7","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+"Home-schooling 10","Total, program type","..","..","..","..","..","..","..","..","..","513","528","492","531","549","660","627","678","693","705","762","801","834","942","2,631"
+,"Regular programs for youth 5","..","..","..","..","..","..","..","..","..","510","528","495","531","549","660","627","681","693","708","762","801","831","942","2,634"
+,"General programs for adults 6","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 7","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+
+
+Footnotes:
+1,"All counts are randomly rounded to a multiple of 3 using the following procedure: counts that are already a multiple of 3 are not adjusted; counts 1 greater than a multiple of 3 are adjusted to the next lowest multiple of 3 with a probability of two-thirds and to the next highest multiple of 3 with a probability of one-third. The probabilities are reversed for counts that are 1 less than a multiple of 3."
+2,"Totals may not add up to the sum of all categories due to rounding."
+3,"The data are subject to revision."
+4,"Counts represent the number of students enrolled in programs at the beginning of the school year (in September or as close as possible thereafter), as provided by the provinces and territories."
+8,"Public elementary and secondary schools are publicly funded schools that are operated by school boards or the province/territory."
+9,"Private/independent elementary and secondary schools are operated, managed and administered by private individuals and/or groups. The extent to which an institution receives its funding from public or private sources does not determine its classification as a public or private/independent school."
+10,""Home-schooling" is an alternative method of learning that takes place outside the public or private school environment; parents have the primary responsibility of managing, delivering and supervising their children's courses and programs of learning."
+5,""Regular programs for youth" are general training programs geared toward and offered primarily to similarly aged young people. Although the majority of enrolments in this category will likely be for school-aged children and youth, some adults may be enrolled."
+6,""General programs for adults" are general programs geared toward and offered primarily to adults within the elementary-secondary system. Some youths may be enrolled in order to follow programs of study labelled as "adult education"."
+7,""Vocational programs for youth and adults" are professional and technical training programs designed for students to acquire the practical skills, know-how and understanding necessary for employment in a particular occupation or trade or class of occupations or trades, offered at the secondary level."
+
+
+
+"How to cite: Statistics Canada. Table 37-10-0109-01  Number of students in elementary and secondary schools, by school type and program type"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710010901

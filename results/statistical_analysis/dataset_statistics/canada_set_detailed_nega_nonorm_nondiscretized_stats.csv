@@ -1,0 +1,91 @@
+,Upper Bounds,Lower Bounds,Standard Deviation,Mean
+9_Postsecondary enrolments_Canada,2183793.0,-1.0,533116.9503512017,1625946.0322580645
+"2_Number of students in elementary and secondary schools_Public school Total, program type",5372733.0,-1.0,2204066.9377523228,4009509.35483871
+"2_Number of students in elementary and secondary schools_Priviate school Total, program type",434496.0,-1.0,197527.67777670568,187309.51612903227
+"2_Number of students in elementary and secondary schools_Home-schooling Total, program type",83784.0,-1.0,19355.24977180693,15159.935483870968
+3_Number of full-time and part-time educators_Canada,408810.0,-1.0,195538.5303142201,185819.38709677418
+"1_Live births_Canada, place of residence of mother 10",403816.0,328577.0,21365.974147937242,367415.0967741936
+1_Live births_Place of residence of mother outside Canada 11,560.0,178.0,93.65950686292584,325.64516129032256
+6_Estimates of population_Canada,38246108.0,-1.0,16474295.83811933,23336506.580645163
+7_Dependency ratio_Canada,65.6,-1.0,29.687883919419104,41.26129032258064
+5_Household spending_Food purchased from stores,7536.0,-1.0,2820.1104226074067,1762.0645161290322
+5_Household spending_Food purchased from restaurants,2775.0,-1.0,1108.7454122779097,692.4516129032259
+5_Household spending_Rented living quarters,4160.0,-1.0,1678.8092195657387,1048.0645161290322
+5_Household spending_Owned living quarters,11676.0,-1.0,4408.8054386306185,2750.935483870968
+"5_Household spending_Water, fuel and electricity for principal accommodation",2551.0,-1.0,1117.5375301003523,701.258064516129
+5_Household spending_Other accommodation,1829.0,-1.0,745.1837126450081,462.96774193548384
+5_Household spending_Communications,2670.0,-1.0,987.6834164765528,612.741935483871
+5_Household spending_Household furnishings,1124.0,-1.0,437.87189661984746,273.258064516129
+5_Household spending_Household appliances,582.0,-1.0,226.50074888907506,140.4516129032258
+5_Household spending_Clothing and accessories,3551.0,-1.0,1584.0209316255757,995.3870967741935
+5_Household spending_Private transportation,11436.0,-1.0,4918.699937292198,3089.8387096774195
+5_Household spending_Public transportation,1479.0,-1.0,562.087461146835,350.2258064516129
+5_Household spending_Direct health care costs to household,1918.0,-1.0,787.5599762107215,492.8709677419355
+5_Household spending_Personal care,1384.0,-1.0,560.4692081937538,349.0
+5_Household spending_Recreational equipment and related services,995.0,-1.0,430.0530574918222,268.96774193548384
+5_Household spending_Home entertainment equipment and services,486.0,-1.0,146.08125592742326,85.0
+5_Household spending_Recreational services,2593.0,-1.0,949.6432697518296,589.1612903225806
+5_Household spending_Recreational vehicles and associated services,826.0,-1.0,316.6204810688311,196.93548387096774
+5_Household spending_Education,1783.0,-1.0,701.0955558942187,434.61290322580646
+5_Household spending_Reading materials and other printed matter,219.0,-1.0,83.83475810585169,51.0
+"5_Household spending_Tobacco products, alcoholic beverages and cannabis for non-medical use",1785.0,-1.0,320.77506941982,56.61290322580645
+5_Household spending_Tobacco products and alcoholic beverages (Terminated),1463.0,-1.0,582.3502493373088,335.7096774193548
+5_Household spending_Games of chance,217.0,-1.0,83.34384019784983,50.935483870967744
+5_Household spending_Miscellaneous expenditures,1865.0,-1.0,754.746030060757,468.35483870967744
+5_Household spending_Income taxes 8,17167.0,-1.0,6714.7425313533495,4194.064516129032
+5_Household spending_Personal insurance payments and pension contributions,5297.0,-1.0,2186.118627067823,1366.4193548387098
+"5_Household spending_Gifts of money, support payments and charitable contributions",2280.0,-1.0,898.4685022093795,560.1290322580645
+4_Canada_gdp_yearly_Durable goods,644814.0,200693.0,146630.8428199989,405177.3548387097
+4_Canada_gdp_yearly_Semi-durable goods,373480.0,127303.0,78075.42463400788,233819.7741935484
+4_Canada_gdp_yearly_Non-durable goods,1187383.0,707942.0,144451.19766613445,930420.7741935484
+4_Canada_gdp_yearly_Services,2615877.0,1170461.0,470597.47109208134,1861749.064516129
+4_Canada_gdp_yearly_Non-profit institutions serving households final consumption expenditure,128876.0,43929.0,26024.232494523876,88648.93548387097
+4_Canada_gdp_yearly_General governments final consumption expenditure,1816085.0,1091049.0,218191.5792650987,1373013.7419354839
+4_Canada_gdp_yearly_Non-residential structures,594855.0,212015.0,108781.60027647977,361002.3870967742
+4_Canada_gdp_yearly_Machinery and equipment,306668.0,111373.0,64789.94250935551,231430.96774193548
+4_Canada_gdp_yearly_Intellectual property products,170389.0,47633.0,36677.37535262016,124630.90322580645
+4_Canada_gdp_yearly_Residential structures,675708.0,253449.0,116969.24535184728,432396.77419354836
+4_Canada_gdp_yearly_Non-profit institutions serving households gross fixed capital formation,12156.0,4063.0,2425.3306645193893,7622.967741935484
+4_Canada_gdp_yearly_General governments gross fixed capital formation,339783.0,144987.0,66857.22074477916,236307.12903225806
+4_Canada_gdp_yearly_Non-farm,72639.0,-91785.0,35791.26096848194,17525.225806451614
+4_Canada_gdp_yearly_Farm,21929.0,-24834.0,8141.4479258318825,1791.0645161290322
+4_Canada_gdp_yearly_Exports of goods,2185938.0,836771.0,378427.6099524373,1725895.7741935484
+4_Canada_gdp_yearly_Exports of services,551180.0,142663.0,105784.75106927863,332816.5483870968
+4_Canada_gdp_yearly_Imports of goods,2168595.0,651186.0,477883.09331720835,1529852.0967741935
+4_Canada_gdp_yearly_Imports of services,548205.0,212578.0,113574.19216892391,352083.9032258064
+4_Canada_gdp_yearly_Statistical discrepancy,7747.0,-7978.0,3815.860192204585,-403.16129032258067
+4_Canada_gdp_yearly_Gross domestic product at market prices,8439965.0,4277433.0,1316897.0536376718,6472732.774193549
+4_Canada_gdp_yearly_Final domestic demand,8489825.0,4148929.0,1464386.7397909735,6266684.354838709
+8_Canadian government finance statistics for the federal government_Gross operating balance 5 6,11595.0,-243018.0,45849.534108208616,-12061.161290322581
+"8_Canadian government finance statistics for the federal government_Taxes on income, profits and capital gains",264017.0,-1.0,101413.92567341268,87820.32258064517
+8_Canadian government finance statistics for the federal government_Taxes on property,0.0,-1.0,0.5058794110206736,-0.5483870967741935
+8_Canadian government finance statistics for the federal government_Taxes on goods and services,69899.0,-1.0,25914.818089976226,22605.645161290322
+8_Canadian government finance statistics for the federal government_Taxes on international trade and transactions,6936.0,-1.0,2487.979633339867,2157.451612903226
+8_Canadian government finance statistics for the federal government_Other taxes,0.0,-1.0,0.5058794110206736,-0.5483870967741935
+8_Canadian government finance statistics for the federal government_Social contributions,24498.0,-1.0,10891.987147706632,9615.677419354839
+"8_Canadian government finance statistics for the federal government_Grants, revenue",2476.0,-1.0,622.788298313423,498.258064516129
+8_Canadian government finance statistics for the federal government_Property income,11787.0,-1.0,4606.402555023251,3966.967741935484
+8_Canadian government finance statistics for the federal government_Sales of goods and services,10024.0,-1.0,4331.890658773591,3816.2903225806454
+"8_Canadian government finance statistics for the federal government_Fines, penalties and forfeits",783.0,-1.0,168.01852176445897,103.09677419354838
+8_Canadian government finance statistics for the federal government_Voluntary transfers other than grants,1257.0,-1.0,223.74058038681304,71.2258064516129
+8_Canadian government finance statistics for the federal government_Miscellaneous revenue 8,750.0,-1.0,192.21120216199455,89.70967741935483
+8_Canadian government finance statistics for the federal government_Compensation of employees 9,58139.0,-1.0,21296.83533105986,18598.58064516129
+8_Canadian government finance statistics for the federal government_Use of goods and services 9,29445.0,-1.0,11718.514039711892,10303.967741935483
+8_Canadian government finance statistics for the federal government_Interest expense,29319.0,-1.0,12792.755328658668,11321.967741935483
+8_Canadian government finance statistics for the federal government_Subsidies,86547.0,-1.0,16046.169579235768,5167.032258064516
+"8_Canadian government finance statistics for the federal government_Grants, expense",151856.0,-1.0,52876.44961093799,45497.48387096774
+8_Canadian government finance statistics for the federal government_Social benefits,222480.0,-1.0,57865.198203748856,45300.32258064516
+8_Canadian government finance statistics for the federal government_Other expense,33383.0,-1.0,8861.61428629907,6617.677419354839
+8_Canadian government finance statistics for the federal government_Nonfinancial assets 12,129795.0,-1.0,40696.800668314936,34688.354838709674
+"8_Canadian government finance statistics for the federal government_Currency and deposits, assets",108039.0,-1.0,26883.947865770428,20211.870967741936
+"8_Canadian government finance statistics for the federal government_Debt securities, assets",9433.0,-1.0,3762.9213448213113,3324.7741935483873
+"8_Canadian government finance statistics for the federal government_Loans, assets",303394.0,-1.0,101717.57755615533,87484.32258064517
+"8_Canadian government finance statistics for the federal government_Equity and investment fund shares, assets",70356.0,-1.0,23077.562239972074,19102.16129032258
+"8_Canadian government finance statistics for the federal government_Insurance and pension, assets",4658.0,-1.0,1215.6106585244634,451.83870967741933
+8_Canadian government finance statistics for the federal government_Other accounts receivable,165588.0,-1.0,63536.48839325507,54209.290322580644
+"8_Canadian government finance statistics for the federal government_Currency and deposits, liabilities",6657.0,-1.0,2978.31822429392,2641.3870967741937
+"8_Canadian government finance statistics for the federal government_Debt securities, liabilities",1226988.0,-1.0,413016.57041502494,350743.4516129032
+"8_Canadian government finance statistics for the federal government_Loans, liabilities",11354.0,-1.0,4732.329774273251,4181.322580645161
+"8_Canadian government finance statistics for the federal government_Insurance, pension and standardized guarantee schemes, liabilities",180523.0,-1.0,82180.84002472775,73006.64516129032
+8_Canadian government finance statistics for the federal government_Other accounts payable,115453.0,-1.0,51205.51147074547,45464.22580645161
+"8_Canadian government finance statistics for the federal government_Monetary gold and special drawing rights (SDR), liabilities",28609.0,-1.0,6689.0651734471585,4961.806451612903

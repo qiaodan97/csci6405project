@@ -1,0 +1,49 @@
+﻿"Archived - Number of full-time and part-time educators, public elementary and secondary schools, by age group and sex, inactive 1 2 3 4 5"
+"Frequency: Annual"
+"Table: 37-10-0010-01 (formerly CANSIM 477-0028)"
+"Release date: 2018-11-02"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Work status","All educators",,,,
+"Age group","All ages",,,,
+"Sex","Both sexes",,,,
+"Geography","2012 / 2013","2013 / 2014","2014 / 2015","2015 / 2016","2016 / 2017"
+,"Number",,,,
+"Canada","395,562","397,236","402,726","403,485","408,810"
+"Newfoundland and Labrador 6","7,584","7,380","7,650","6,948","7,161"
+"Prince Edward Island 6","1,767","1,692","1,686","1,683","1,611"
+"Nova Scotia","9,207","8,913","9,150","9,030","9,333"
+"New Brunswick 6","7,449","6,900","6,843","7,023","7,515"
+"Quebec 6","97,617","98,112","98,313","99,243","100,812"
+"Ontario 6 7","163,311","165,702","169,314","168,045","169,572"
+"Manitoba 6 8","13,479","13,662","13,707","13,908","14,097"
+"Saskatchewan 6 9","12,564","12,726","13,044","12,894","12,918"
+"Alberta 9 10","44,211","44,391","45,123","46,662","47,289"
+"British Columbia 11","36,021","35,613","35,505","35,757","36,111"
+"Yukon 12","879","903","945","873","879"
+"Northwest Territories","672","672","666","654","645"
+"Nunavut","801","573","783","762","864"
+
+
+
+
+Footnotes:
+1,"All counts are randomly rounded to a multiple of 3 using the following procedure: counts that are already a multiple of 3 are not adjusted; counts 1 greater than a multiple of 3 are adjusted to the next lowest multiple of 3 with a probability of two-thirds and to the next highest multiple of 3 with a probability of one-third. The probabilities are reversed for counts that are 1 less than a multiple of 3."
+2,"The data are subject to revision."
+3,"Includes all employees who belong to one of the three following categories: teachers, school administrators, and pedagogical support personnel."
+4,"Care should be taken with cross-jurisdictional comparisons. The proportion of educators (comprising a mix of teachers, administrators and pedagogical support) differs in each jurisdiction."
+5,"Figures may not add up to the sum of all categories due to missing categories and/or rounding values."
+6,"Educational assistants are excluded."
+7,"Ontario began including early childhood educators in 2010/2011; therefore, data for 2010/2011 and subsequent years are not strictly comparable with data for the years before 2010/2011."
+8,"In Manitoba, data prior to 2011/2012 are not comparable with more recent data due to a change in methodology."
+9,"All educators in Lloydminster are included in Saskatchewan's counts and not in the counts for Alberta."
+10,"In Alberta, data prior to 2004/2005 are not comparable with more recent data due to a change in methodology."
+11,"In British Columbia, data prior to 2012/2013 are not comparable with more recent data due to a change in data source and reporting approach."
+12,"In Yukon, data prior to 2012/2013 are not comparable with more recent data due to a change in methodology."
+
+
+
+"How to cite: Statistics Canada. Table 37-10-0010-01  Number of full-time and part-time educators, public elementary and secondary schools, by age group and sex, inactive"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710001001

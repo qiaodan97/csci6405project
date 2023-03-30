@@ -1,0 +1,50 @@
+﻿"Number of students in elementary and secondary schools, by school type and program type 1 2 3 4"
+"Frequency: Annual"
+"Table: 37-10-0109-01"
+"Release date: 2022-10-13"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Geography","Canada",,,,,,,,,,,,,,,,,,,,,,,
+"School type","Program type","1997 / 1998","1998 / 1999","1999 / 2000","2000 / 2001","2001 / 2002","2002 / 2003","2003 / 2004","2004 / 2005","2005 / 2006","2006 / 2007","2007 / 2008","2008 / 2009","2009 / 2010","2010 / 2011","2011 / 2012","2012 / 2013","2013 / 2014","2014 / 2015","2015 / 2016","2016 / 2017","2017 / 2018","2018 / 2019","2019 / 2020","2020 / 2021"
+"Total, school type",,"Number",,,,,,,,,,,,,,,,,,,,,,,
+,"Total, program type","5,352,183","5,357,244","5,372,733","5,350,719","5,360,790","5,352,042","5,293,260","5,255,616","5,059,860","5,380,251","5,498,163","5,471,547","5,453,247","5,459,400","5,431,917","5,444,883","5,454,675","5,470,734","5,493,732","5,552,091","5,609,523","5,676,576","5,730,108","5,690,091"
+,"Regular programs for youth 5","5,106,681","5,115,531","5,125,884","5,105,640","5,099,142","5,081,703","5,016,075","4,977,099","4,937,745","5,252,127","5,206,287","5,159,880","5,120,571","5,127,957","5,104,293","5,112,624","5,121,933","5,146,791","5,173,443","5,234,751","5,304,147","5,375,211","5,443,431","5,412,951"
+,"General programs for adults 6","154,209","149,904","146,640","152,319","166,431","174,018","177,612","175,545","63,216","63,216","183,276","199,713","214,926","211,902","205,452","207,042","203,928","193,776","190,590","188,961","182,346","179,520","167,367","143,529"
+,"Vocational programs for youth and adults 7","91,296","91,809","100,212","92,760","95,217","96,321","99,576","102,972","58,899","64,908","108,597","111,951","117,750","119,541","122,175","125,217","128,817","130,167","129,699","128,379","123,030","121,845","119,310","133,611"
+"Public schools 8","Total, program type","5,352,183","5,357,244","5,372,733","5,350,719","5,360,787","5,352,039","5,293,260","5,255,616","5,059,860","5,005,320","5,115,075","5,086,551","5,074,254","5,072,031","5,044,917","5,047,059","5,048,529","5,052,069","5,068,404","5,117,265","5,159,949","5,212,455","5,255,001","5,181,477"
+,"Regular programs for youth 5","5,106,684","5,115,531","5,125,884","5,105,640","5,099,142","5,081,703","5,016,075","4,977,099","4,937,745","4,882,290","4,828,767","4,780,521","4,747,491","4,746,624","4,723,287","4,720,737","4,721,496","4,733,253","4,753,014","4,804,986","4,860,093","4,917,690","4,975,797","4,911,696"
+,"General programs for adults 6","154,206","149,904","146,637","152,319","166,431","174,018","177,612","175,545","63,213","63,201","183,252","199,584","214,668","211,641","205,263","206,832","203,670","193,518","190,359","188,751","182,163","179,361","167,229","143,358"
+,"Vocational programs for youth and adults 7","91,296","91,809","100,212","92,763","95,217","96,318","99,576","102,972","58,899","59,826","103,059","106,443","112,095","113,766","116,367","119,490","123,360","125,298","125,031","123,528","117,696","115,410","111,975","126,420"
+"Private/independent schools 9","Total, program type","..","..","..","..","..","..","..","..","..","356,496","363,660","365,355","359,010","364,104","362,922","371,904","378,345","389,145","394,089","401,817","414,663","425,775","434,496","424,830"
+,"Regular programs for youth 5","..","..","..","..","..","..","..","..","..","351,408","358,101","359,718","353,097","358,068","356,928","365,967","372,636","384,021","389,187","396,762","409,146","419,178","427,023","417,468"
+,"General programs for adults 6","..","..","..","..","..","..","..","..","..","9","21","126","255","261","186","210","252","255","231","210","180","162","138","171"
+,"Vocational programs for youth and adults 7","..","..","..","..","..","..","..","..","..","5,082","5,541","5,508","5,655","5,772","5,805","5,727","5,457","4,869","4,668","4,848","5,334","6,438","7,335","7,194"
+"Home-schooling 10","Total, program type","..","..","..","..","..","..","..","..","..","18,432","19,428","19,644","19,986","23,265","24,078","25,920","27,804","29,517","31,242","33,009","34,911","38,346","40,608","83,784"
+,"Regular programs for youth 5","..","..","..","..","..","..","..","..","..","18,426","19,422","19,638","19,983","23,262","24,078","25,920","27,804","29,520","31,245","33,006","34,908","38,346","40,608","83,784"
+,"General programs for adults 6","..","..","..","..","..","..","..","..","..","6","6","6","3","3","0","0","3","0","0","0","0","0","0","0"
+,"Vocational programs for youth and adults 7","..","..","..","..","..","..","..","..","..","0","0","0","0","..","..","..","..","..","..","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+
+
+Footnotes:
+1,"All counts are randomly rounded to a multiple of 3 using the following procedure: counts that are already a multiple of 3 are not adjusted; counts 1 greater than a multiple of 3 are adjusted to the next lowest multiple of 3 with a probability of two-thirds and to the next highest multiple of 3 with a probability of one-third. The probabilities are reversed for counts that are 1 less than a multiple of 3."
+2,"Totals may not add up to the sum of all categories due to rounding."
+3,"The data are subject to revision."
+4,"Counts represent the number of students enrolled in programs at the beginning of the school year (in September or as close as possible thereafter), as provided by the provinces and territories."
+8,"Public elementary and secondary schools are publicly funded schools that are operated by school boards or the province/territory."
+9,"Private/independent elementary and secondary schools are operated, managed and administered by private individuals and/or groups. The extent to which an institution receives its funding from public or private sources does not determine its classification as a public or private/independent school."
+10,""Home-schooling" is an alternative method of learning that takes place outside the public or private school environment; parents have the primary responsibility of managing, delivering and supervising their children's courses and programs of learning."
+5,""Regular programs for youth" are general training programs geared toward and offered primarily to similarly aged young people. Although the majority of enrolments in this category will likely be for school-aged children and youth, some adults may be enrolled."
+6,""General programs for adults" are general programs geared toward and offered primarily to adults within the elementary-secondary system. Some youths may be enrolled in order to follow programs of study labelled as "adult education"."
+7,""Vocational programs for youth and adults" are professional and technical training programs designed for students to acquire the practical skills, know-how and understanding necessary for employment in a particular occupation or trade or class of occupations or trades, offered at the secondary level."
+
+
+
+"How to cite: Statistics Canada. Table 37-10-0109-01  Number of students in elementary and secondary schools, by school type and program type"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710010901

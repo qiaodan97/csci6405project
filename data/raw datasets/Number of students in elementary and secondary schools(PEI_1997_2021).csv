@@ -1,0 +1,50 @@
+﻿"Number of students in elementary and secondary schools, by school type and program type 1 2 3 4"
+"Frequency: Annual"
+"Table: 37-10-0109-01"
+"Release date: 2022-10-13"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Geography","Prince Edward Island",,,,,,,,,,,,,,,,,,,,,,,
+"School type","Program type","1997 / 1998","1998 / 1999","1999 / 2000","2000 / 2001","2001 / 2002","2002 / 2003","2003 / 2004","2004 / 2005","2005 / 2006","2006 / 2007","2007 / 2008","2008 / 2009","2009 / 2010","2010 / 2011","2011 / 2012","2012 / 2013","2013 / 2014","2014 / 2015","2015 / 2016","2016 / 2017","2017 / 2018","2018 / 2019","2019 / 2020","2020 / 2021"
+"Total, school type",,"Number",,,,,,,,,,,,,,,,,,,,,,,
+,"Total, program type","24,399","24,147","24,087","23,151","22,842","23,241","22,905","22,392","21,948","21,411","21,063","20,595","20,202","21,432","21,120","20,700","20,427","20,256","20,073","20,475","20,691","20,970","21,399","21,756"
+,"Regular programs for youth 5","24,396","24,147","24,090","23,154","22,842","23,241","22,905","22,395","21,948","21,411","21,063","20,595","20,202","21,432","21,120","20,700","20,427","20,256","20,073","20,475","20,691","20,973","21,402","21,753"
+,"General programs for adults 6","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 7","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+"Public schools 8","Total, program type","24,396","24,144","24,090","23,154","22,842","23,244","22,905","22,395","21,948","21,366","20,811","20,322","19,953","21,162","20,832","20,406","20,130","19,938","19,713","20,007","20,187","20,361","20,733","20,640"
+,"Regular programs for youth 5","24,399","24,144","24,090","23,154","22,845","23,244","22,905","22,392","21,948","21,366","20,814","20,325","19,956","21,162","20,832","20,406","20,130","19,938","19,710","20,007","20,187","20,361","20,733","20,640"
+,"General programs for adults 6","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 7","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+"Private/independent schools 9","Total, program type","..","..","..","..","..","..","..","..","..","0","195","213","192","204","207","210","210","225","240","276","342","441","474","558"
+,"Regular programs for youth 5","..","..","..","..","..","..","..","..","..","0","192","210","192","204","207","210","210","225","240","276","339","441","474","558"
+,"General programs for adults 6","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 7","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+"Home-schooling 10","Total, program type","..","..","..","..","..","..","..","..","..","45","54","60","57","69","81","81","84","90","120","189","162","171","195","558"
+,"Regular programs for youth 5","..","..","..","..","..","..","..","..","..","45","54","57","57","69","81","81","84","93","123","189","162","171","192","555"
+,"General programs for adults 6","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 7","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+
+
+Footnotes:
+1,"All counts are randomly rounded to a multiple of 3 using the following procedure: counts that are already a multiple of 3 are not adjusted; counts 1 greater than a multiple of 3 are adjusted to the next lowest multiple of 3 with a probability of two-thirds and to the next highest multiple of 3 with a probability of one-third. The probabilities are reversed for counts that are 1 less than a multiple of 3."
+2,"Totals may not add up to the sum of all categories due to rounding."
+3,"The data are subject to revision."
+4,"Counts represent the number of students enrolled in programs at the beginning of the school year (in September or as close as possible thereafter), as provided by the provinces and territories."
+8,"Public elementary and secondary schools are publicly funded schools that are operated by school boards or the province/territory."
+9,"Private/independent elementary and secondary schools are operated, managed and administered by private individuals and/or groups. The extent to which an institution receives its funding from public or private sources does not determine its classification as a public or private/independent school."
+10,""Home-schooling" is an alternative method of learning that takes place outside the public or private school environment; parents have the primary responsibility of managing, delivering and supervising their children's courses and programs of learning."
+5,""Regular programs for youth" are general training programs geared toward and offered primarily to similarly aged young people. Although the majority of enrolments in this category will likely be for school-aged children and youth, some adults may be enrolled."
+6,""General programs for adults" are general programs geared toward and offered primarily to adults within the elementary-secondary system. Some youths may be enrolled in order to follow programs of study labelled as "adult education"."
+7,""Vocational programs for youth and adults" are professional and technical training programs designed for students to acquire the practical skills, know-how and understanding necessary for employment in a particular occupation or trade or class of occupations or trades, offered at the secondary level."
+
+
+
+"How to cite: Statistics Canada. Table 37-10-0109-01  Number of students in elementary and secondary schools, by school type and program type"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710010901

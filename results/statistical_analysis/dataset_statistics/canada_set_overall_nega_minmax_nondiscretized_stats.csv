@@ -1,0 +1,19 @@
+,Upper Bounds,Lower Bounds,Standard Deviation,Mean
+9_Postsecondary enrolments_Canada,1.0,0.0,0.24412419410951844,0.7445514697164953
+"2_Number of students in elementary and secondary schools_Total, school type Total, program type",1.0,0.0,0.4041660778875536,0.7350612240506892
+3_Number of full-time and part-time educators_Canada,1.0,0.0,0.4783103446683676,0.4545386183267432
+"1_Live births_Total, Canada and place of residence of mother outside Canada 10 11",1.0,0.0,0.2835804086803512,0.5150349647352852
+6_Estimates of population_Canada,1.0,0.0,0.4307443624688548,0.6101668428713928
+7_Dependency ratio_Canada,1.0,0.0,0.44576402281410066,0.6345539087474572
+5_Household spending_Total expenditure,1.0,0.0,0.40034030483941935,0.2507813696555641
+4_Canada_gdp_yearly_Final consumption expenditure,0.9999999999999998,0.0,0.3327940204494576,0.4719341628417802
+4_Canada_gdp_yearly_Gross fixed capital formation,1.0,0.0,0.35157761382593966,0.5507971199433366
+4_Canada_gdp_yearly_Investment in inventories,1.0,0.0,0.22595636715052336,0.6639411722371311
+4_Canada_gdp_yearly_Exports of goods and services,1.0,0.0,0.27133056922797577,0.6138084508279898
+4_Canada_gdp_yearly_Less: imports of goods and services,1.0,0.0,0.3191277349187141,0.5573229501040672
+4_Canada_gdp_yearly_Statistical discrepancy,1.0,0.0,0.24266201540251733,0.4817067541925226
+4_Canada_gdp_yearly_Gross domestic product at market prices,1.0000000000000002,0.0,0.3163692323897262,0.5273952907013203
+4_Canada_gdp_yearly_Final domestic demand,1.0,0.0,0.3373466537302377,0.48786134356563937
+8_Canadian government finance statistics for the federal government_Gross operating balance 5 6,1.0,0.0,0.18007538542104534,0.9070897350476114
+8_Canadian government finance statistics for the federal government_Net operating balance 7,1.0,0.0,0.18663268719698173,0.92764698939798
+8_Canadian government finance statistics for the federal government_Net worth 3 10 11,1.0,0.0,0.36880435608574413,0.6794661987864985

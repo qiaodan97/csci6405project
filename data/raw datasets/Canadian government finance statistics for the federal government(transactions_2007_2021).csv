@@ -1,0 +1,88 @@
+﻿"Canadian government finance statistics for the federal government (x 1,000,000) c 1 2 3",,,,,,,,,,,,,,,
+Frequency: Annual,,,,,,,,,,,,,,,
+Table: 10-10-0016-01 (formerly CANSIM 385-0033),,,,,,,,,,,,,,,
+Release date: 2022-11-22,,,,,,,,,,,,,,,
+Geography: Canada,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Display value 4,Transactions and other economic flows,,,,,,,,,,,,,,
+Geography,Canada,,,,,,,,,,,,,,
+Public sector components,Federal  government,,,,,,,,,,,,,,
+Statement of operations and balance sheet,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+,Dollars,,,,,,,,,,,,,,
+Gross operating balance 5 6,..,"-3,143","-34,569","-25,750","-14,306","-9,027","4,952","7,631","11,570","2,781","5,262","11,595","-11,392","-243,018","-76,465"
+Net operating balance 7,..,"-10,759","-42,711","-34,023","-22,914","-17,903","-4,112","-1,453","2,222","-6,817","-4,344","1,243","-22,349","-254,698","-88,740"
+Revenue,..,"235,542","225,123","233,777","247,835","252,752","269,713","274,546","289,268","296,052","314,904","339,123","338,665","350,823","385,132"
+Taxes,..,"200,374","192,074","197,505","209,089","215,249","227,707","235,870","248,530","256,845","273,688","293,731","293,972","306,124","339,379"
+"Taxes on income, profits and capital gains",..,"156,729","147,136","150,605","161,780","167,088","176,838","183,965","193,756","200,154","214,289","230,692","231,406","243,992","264,017"
+Taxes on property,..,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Taxes on goods and services,..,"39,384","41,201","43,138","43,208","44,013","46,570","47,318","49,260","51,205","53,970","56,104","57,703","57,819","69,899"
+Taxes on international trade and transactions,..,"4,260","3,736","3,761","4,101","4,148","4,299","4,587","5,515","5,486","5,429","6,936","4,863","4,314","5,463"
+Other taxes,..,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Social contributions,..,"17,271","17,171","17,921","19,002","20,846","22,215","23,016","23,563","22,604","21,613","22,776","22,708","22,899","24,498"
+"Grants, revenue",..,"1,111",796,784,"2,476",934,946,887,944,954,"1,002","1,132","1,153","1,144","1,200"
+Other revenue,..,"16,787","15,082","17,568","17,268","15,723","18,845","14,773","16,230","15,649","18,601","21,483","20,831","20,655","20,056"
+Property income,..,"9,420","7,880","9,676","8,957","7,455","9,923","5,635","6,188","6,817","8,644","11,570","9,951","11,787","9,090"
+Sales of goods and services,..,"6,475","6,962","7,344","8,022","8,014","8,671","8,761","8,677","8,641","9,512","9,342","10,024","8,040","9,837"
+"Fines, penalties and forfeits",..,783,118,403,124,109,162,144,108,126,161,149,305,196,325
+Voluntary transfers other than grants,..,80,103,114,116,91,64,50,"1,257",62,60,56,49,69,54
+Miscellaneous revenue 8,..,29,19,30,48,54,25,184,0,4,224,365,502,564,750
+Expense,..,"246,301","267,834","267,801","270,750","270,655","273,825","275,999","287,047","302,869","319,248","337,880","361,014","605,521","473,872"
+Compensation of employees 9,..,"33,703","35,611","36,031","38,376","39,816","38,495","37,831","38,141","37,232","42,225","44,835","44,833","51,305","58,139"
+Use of goods and services 9,..,"20,606","21,654","20,316","21,148","19,931","19,942","19,882","20,945","23,166","24,403","25,280","25,825","26,897","29,445"
+Interest expense,..,"29,319","27,262","28,130","28,143","26,773","25,760","24,386","23,575","22,097","21,920","23,700","24,570","21,374","23,989"
+Subsidies,..,"3,410","3,977","4,067","3,950","2,977","2,849","2,707","2,720","2,791","2,865","3,218","8,629","86,547","29,488"
+"Grants, expense",..,"75,988","87,558","86,922","86,135","85,992","88,481","89,380","91,782","98,694","103,695","112,192","116,834","151,856","134,930"
+Social benefits,..,"66,601","73,197","72,923","73,872","76,021","78,186","82,394","89,341","97,471","101,564","103,747","108,363","222,480","158,167"
+Other expense,..,"9,057","10,433","11,139","10,518","10,270","11,049","10,335","11,195","11,821","12,969","14,555","21,003","33,383","27,438"
+Net worth 3 10 11,..,..,"-33,464","-40,594","-48,220","-16,732","13,508","-28,716","6,432","30,056","5,968","-19,148","-47,715","-206,002","35,216"
+Nonfinancial assets 12,..,..,"-1,004","-4,590","6,410","-6,824",-648,-47,"-4,442","13,936","11,197","-4,799","-1,003","19,739","31,118"
+Net financial worth 13,..,"-6,742","-32,460","-36,004","-54,630","-9,908","14,156","-28,670","10,874","16,120","-5,229","-14,349","-46,712","-225,741","4,098"
+Financial assets,..,"121,979","13,297","5,724","8,695","26,661","-20,685","21,072","27,152","19,087","19,114","8,406","24,304","104,987","91,726"
+"Currency and deposits, assets",..,"32,979","-18,730","-13,646","2,441","10,311","4,435","2,373","3,911","-2,127","-1,388","3,157",803,"27,532","36,796"
+"Debt securities, assets",..,-353,-227,788,-457,218,-678,282,581,-562,475,-716,749,"1,346",672
+"Loans, assets",..,"82,063","25,389","1,549","5,477","2,230","-24,548","6,480","12,730","8,925","2,628","11,477","19,439","36,235","47,532"
+"Equity and investment fund shares, assets",..,"1,985","6,133","6,987","-6,542","9,534","4,180","1,535","-1,366","5,995","-1,699","-1,369","5,170","11,832","8,907"
+"Insurance and pension, assets",..,1,13,8,11,8,2,193,-41,116,46,447,"2,027","1,637",189
+Other accounts receivable,..,"5,304",719,"10,039","7,764","4,361","-4,077","10,209","11,336","6,739","19,053","-4,591","-3,884","26,404","-2,370"
+Liabilities,..,"128,721","45,756","41,729","63,325","36,569","-34,842","49,741","16,279","2,967","24,343","22,755","71,016","330,727","87,628"
+"Currency and deposits, liabilities",..,172,105,129,106,120,85,82,143,138,156,131,115,101,148
+"Debt securities, liabilities",..,"123,639","38,325","38,393","57,564","39,852","-32,287","42,040","13,438","7,603","-10,839","27,110","69,762","322,213","61,875"
+"Loans, liabilities",..,-433,-237,53,-297,-50,223,"-1,554",208,-548,685,218,705,"1,314",754
+"Insurance, pension and standardized guarantee schemes, liabilities",..,"2,766","3,306","3,431","2,732","2,533","1,462",-85,-207,16,"19,736","-1,767",57,577,"4,817"
+Other accounts payable,..,"2,422","-3,508",-248,"3,172","-5,747","-5,443","9,028","2,203","-4,092","14,195","-2,830",-19,"7,363","2,090"
+"Monetary gold and special drawing rights (SDR), liabilities",..,154,"7,765",-30,48,-139,"1,118",231,493,-151,410,-107,396,-840,"17,945"
+,,,,,,,,,,,,,,,
+Symbol legend:,,,,,,,,,,,,,,,
+.., not available for a specific reference period,,,,,,,,,,,,,,
+p, preliminary,,,,,,,,,,,,,,
+r, revised,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Table Corrections:,,,,,,,,,,,,,,,
+Date,Note,,,,,,,,,,,,,,
+4/14/2016,"On April 14th, 2016, data for consumption of fixed capital (CGFS 23) have been corrected for the reference period from 2008 to 2014.",,,,,,,,,,,,,,
+4/14/2016,"On April 14th, 2016, data for consumption of fixed capital (CGFS 23) have been corrected for the reference period from 2008 to 2014.",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Footnotes:,,,,,,,,,,,,,,,
+1,Data may not add to the total due to rounding.,,,,,,,,,,,,,,
+2,End of fiscal year closest to December 31st.,,,,,,,,,,,,,,
+3,"For 2007 only stocks for balance sheet statement are available, they represent the opening stocks for 2008, the start of the observed period.",,,,,,,,,,,,,,
+4,Balance sheet data can be displayed as flows or stocks. Flows are monetary expressions of economic actions that occur within the accounting period. Stocks refer to holdings of assets and liabilities at a specific time - the end of the accounting period.,,,,,,,,,,,,,,
+5,"Memorandum items provide supplemental information or alternative presentation of related items, but the memorandum items amounts are not included in Canadian Government Finance Statistics (CGFS) structure and totals.",,,,,,,,,,,,,,
+6,The gross operating balance equals revenue minus expense other than consumption of fixed capital.,,,,,,,,,,,,,,
+7,"The net operating balance is a summary measure of the ongoing sustainability of the government operations. Net operating balance equals total revenues less total expenses. The net operating balance will become available with the release of consumption of fixed capital, an expense component.",,,,,,,,,,,,,,
+8,"Miscellaneous revenue includes auto insurance premiums, drug plan premiums and revenue not elsewhere classified. It may also include the consolidation statistical discrepancy. This discrepancy reflects differences between paired transactions (e.g. grant revenue and grant expense) and must be recorded in the statement of operation in order to preserve the operating balances (gross or net). While in theory, the paired transactions to be consolidated should be of the same value, in practice, they are not always aligned as a result of multiple cause (availability of economic and counterparty classification details, time of recording, different fiscal year end, deferrals, etc.). When paired transactions are eliminated, there must be no impact on the operating balance, therefore a consolidation statistical discrepancy is recorded in revenue or expense, depending on the situation. Improving the pairing of transactions to be consolidated is part of the integration work for the next year and will reduce the recorded consolidation statistical discrepancy.",,,,,,,,,,,,,,
+9,Canadian Government Finance Statistics (CGFS) estimates for compensation of employees and use of goods and services are adjusted to account for the capitalisation of research and development expenses using data from the Canadian System of Macroeconomic Accounts (CSMA). This memorandum item provides the amounts capitalised for research and development to facilitate comparison with the Public Accounts.,,,,,,,,,,,,,,
+10,"The balance sheet records the stocks of assets, liabilities, and the net worth for each accounting period. Net worth is defined as the total assets less total liabilities and is an important measure for assessing the sustainability of fiscal activities.",,,,,,,,,,,,,,
+11,The balance sheet components include domestic and foreign counterparts.,,,,,,,,,,,,,,
+12,"Within the Canadian Government Finance Statistics system (CGFS), the value of nonfinancial assets and related consumption of fixed capital is estimated using the Canadian System of Macroeconomic Accounts (CSMA) perpetual inventory method (PIM). The results of the PIM model can differ substantially from the values found in the public accounting sources of a specific level of government. In order to better understand these differences, the value of nonfinancial assets and related consumption of fixed capital found in the public accounting sources are presented in the memorandum items consumption of fixed capital according to public sector accounts"" and ""Nonfinancial assets according to public sector accounts"". For more information on the PIM model please consult additional information on the survey or statistical program in the CANSIM related information tab.""",,,,,,,,,,,,,,
+13,The net financial worth position equals total stock of financial assets minus liabilities.,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"How to cite: Statistics Canada. Table 10-10-0016-01  Canadian government finance statistics for the federal government (x 1,000,000)",,,,,,,,,,,,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010001601,,,,,,,,,,,,,,,

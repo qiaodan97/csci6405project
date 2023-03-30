@@ -1,0 +1,35 @@
+,Upper Bounds,Lower Bounds,Standard Deviation,Mean
+9_Postsecondary enrolments,9.0,0.0,2.098346764945574,1.13151364764268
+"2_Number of students in elementary and secondary schools_Public school Total, program type",9.0,0.0,2.4104186656621405,1.349875930521092
+"2_Number of students in elementary and secondary schools_Priviate school Total, program type",9.0,0.0,2.79332668605696,1.4863523573200992
+"2_Number of students in elementary and secondary schools_Home-schooling Total, program type",9.0,0.0,1.617184545316446,1.317617866004963
+3_Number of full-time and part-time educators,9.0,0.0,2.045408736686829,1.6923076923076923
+"1_Live births_Canada, place of residence of mother 10",9.0,0.0,2.270983166395999,1.5930521091811414
+1_Live births_Place of residence of mother outside Canada 11,9.0,0.0,1.380075531009512,0.7593052109181141
+6_Estimates of population,9.0,0.0,2.213508753470674,1.2133995037220844
+7_Dependency ratio,9.0,0.0,1.8987851341690216,2.9602977667493797
+4_Canada_gdp_yearly_Durable goods,9.0,0.0,1.8209956980715514,1.1215880893300247
+4_Canada_gdp_yearly_Semi-durable goods,9.0,0.0,1.9252861894661175,1.0471464019851116
+4_Canada_gdp_yearly_Non-durable goods,9.0,0.0,2.261758447730144,1.2258064516129032
+4_Canada_gdp_yearly_Services,9.0,0.0,2.033996821230365,1.0843672456575681
+4_Canada_gdp_yearly_Non-profit institutions serving households final consumption expenditure,9.0,0.0,1.9803236889497555,1.1612903225806452
+4_Canada_gdp_yearly_General governments final consumption expenditure,9.0,0.0,2.103529442908001,1.0893300248138957
+4_Canada_gdp_yearly_Non-residential structures,9.0,0.0,1.4267241827032011,0.8089330024813896
+4_Canada_gdp_yearly_Machinery and equipment,9.0,0.0,2.2288431832418967,1.2903225806451613
+4_Canada_gdp_yearly_Intellectual property products,9.0,0.0,1.8820378166290537,1.0148883374689825
+4_Canada_gdp_yearly_Residential structures,9.0,0.0,1.7556812639588164,0.9156327543424317
+4_Canada_gdp_yearly_Non-profit institutions serving households gross fixed capital formation,9.0,0.0,1.7347749406373036,0.8759305210918115
+4_Canada_gdp_yearly_General governments gross fixed capital formation,9.0,0.0,1.9552383932466235,1.1017369727047146
+4_Canada_gdp_yearly_Non-farm,9.0,0.0,1.0413236290586065,4.369727047146402
+4_Canada_gdp_yearly_Farm,9.0,0.0,1.0128673532592734,4.183622828784119
+4_Canada_gdp_yearly_Exports of goods to other countries,9.0,0.0,2.2901621740830076,1.2754342431761787
+4_Canada_gdp_yearly_Exports of services to other countries,9.0,0.0,1.5174299756813752,0.739454094292804
+4_Canada_gdp_yearly_Exports of goods to other provinces,9.0,0.0,2.628859930540226,2.2531017369727047
+4_Canada_gdp_yearly_Exports of services to other provinces,9.0,0.0,1.9373035242958037,1.1339950372208436
+4_Canada_gdp_yearly_Imports of goods from other countries,9.0,0.0,1.9985334672338098,0.9702233250620348
+4_Canada_gdp_yearly_Imports of services from other countries,9.0,0.0,1.8211651746846553,0.8709677419354839
+4_Canada_gdp_yearly_Imports of goods from other provinces,9.0,0.0,2.4048039645821597,1.977667493796526
+4_Canada_gdp_yearly_Imports of services from other provinces,9.0,0.0,2.510039346274266,2.2009925558312653
+4_Canada_gdp_yearly_Statistical discrepancy,9.0,0.0,0.8809203376076746,4.990074441687345
+4_Canada_gdp_yearly_Gross domestic product at market prices,9.0,0.0,2.1408872333095195,1.5235732009925558
+4_Canada_gdp_yearly_Final domestic demand,9.0,0.0,2.033338180344961,1.0694789081885856

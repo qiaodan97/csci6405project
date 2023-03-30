@@ -1,0 +1,51 @@
+﻿"Number of students in elementary and secondary schools, by school type and program type 1 2 3 4"
+"Frequency: Annual"
+"Table: 37-10-0109-01"
+"Release date: 2022-10-13"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Geography","Nunavut 5",,,,,,,,,,,,,,,,,,,,,,,
+"School type","Program type","1997 / 1998","1998 / 1999","1999 / 2000","2000 / 2001","2001 / 2002","2002 / 2003","2003 / 2004","2004 / 2005","2005 / 2006","2006 / 2007","2007 / 2008","2008 / 2009","2009 / 2010","2010 / 2011","2011 / 2012","2012 / 2013","2013 / 2014","2014 / 2015","2015 / 2016","2016 / 2017","2017 / 2018","2018 / 2019","2019 / 2020","2020 / 2021"
+"Total, school type",,"Number",,,,,,,,,,,,,,,,,,,,,,,
+,"Total, program type","0","0","9,585","8,754","8,739","8,901","9,117","9,354","9,129","9,066","9,021","9,276","9,039","8,871","8,904","9,087","9,729","9,891","10,026","10,038","10,107","10,650","10,725","10,902"
+,"Regular programs for youth 6","0","0","9,582","8,754","8,739","8,901","9,120","9,354","9,129","9,066","9,021","9,276","9,039","8,871","8,907","9,087","9,729","9,888","10,026","10,041","10,107","10,650","10,728","10,902"
+,"General programs for adults 7","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 8","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+"Public schools 9","Total, program type","0","0","9,582","8,751","8,739","8,901","9,120","9,354","9,129","9,063","9,024","9,279","9,039","8,871","8,904","9,087","9,729","9,891","10,026","10,041","10,107","10,653","10,725","10,902"
+,"Regular programs for youth 6","0","0","9,582","8,754","8,739","8,901","9,117","9,354","9,129","9,063","9,024","9,276","9,042","8,874","8,907","9,084","9,729","9,888","10,029","10,038","10,107","10,650","10,725","10,902"
+,"General programs for adults 7","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 8","0","0","0","0","0","0","0","0","0","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+"Private/independent schools 10","Total, program type","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Regular programs for youth 6","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"General programs for adults 7","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 8","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+"Home-schooling 11","Total, program type","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Regular programs for youth 6","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"General programs for adults 7","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+,"Vocational programs for youth and adults 8","..","..","..","..","..","..","..","..","..","0","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+
+
+Footnotes:
+1,"All counts are randomly rounded to a multiple of 3 using the following procedure: counts that are already a multiple of 3 are not adjusted; counts 1 greater than a multiple of 3 are adjusted to the next lowest multiple of 3 with a probability of two-thirds and to the next highest multiple of 3 with a probability of one-third. The probabilities are reversed for counts that are 1 less than a multiple of 3."
+2,"Totals may not add up to the sum of all categories due to rounding."
+3,"The data are subject to revision."
+4,"Counts represent the number of students enrolled in programs at the beginning of the school year (in September or as close as possible thereafter), as provided by the provinces and territories."
+5,"Nunavut does not provide separate counts for students in home-schooling (typically less than 10); they are reported under "public schools"."
+9,"Public elementary and secondary schools are publicly funded schools that are operated by school boards or the province/territory."
+10,"Private/independent elementary and secondary schools are operated, managed and administered by private individuals and/or groups. The extent to which an institution receives its funding from public or private sources does not determine its classification as a public or private/independent school."
+11,""Home-schooling" is an alternative method of learning that takes place outside the public or private school environment; parents have the primary responsibility of managing, delivering and supervising their children's courses and programs of learning."
+6,""Regular programs for youth" are general training programs geared toward and offered primarily to similarly aged young people. Although the majority of enrolments in this category will likely be for school-aged children and youth, some adults may be enrolled."
+7,""General programs for adults" are general programs geared toward and offered primarily to adults within the elementary-secondary system. Some youths may be enrolled in order to follow programs of study labelled as "adult education"."
+8,""Vocational programs for youth and adults" are professional and technical training programs designed for students to acquire the practical skills, know-how and understanding necessary for employment in a particular occupation or trade or class of occupations or trades, offered at the secondary level."
+
+
+
+"How to cite: Statistics Canada. Table 37-10-0109-01  Number of students in elementary and secondary schools, by school type and program type"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710010901
